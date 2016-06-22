@@ -1,4 +1,8 @@
 # Shpping List
 
 - milk
-- eggs
+- 10 eggs
+- pork
+- barbecue grill
+- wood coal
+- corn
